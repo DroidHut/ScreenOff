@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Lock Screen test</string>
+    <string name="unlock_instructions">Slide to unlock</string>
+    <string name="unlock_locked">Locked</string>
+    <string name="unlock_unlocked">Unlocked</string>
+    <string name="unlock_thumb">Move this thumb</string>
+
+
+    <string-array name="urltop">
+        <item>http://www.financialexpress.com/feed/</item>
+        <item>http://indiatoday.intoday.in/rss/article.jsp?sid=120</item>
+        <item>http://www.forbesindia.com/rssfeeds/rss_mostread.xml</item>
+        <item>http://www.hindustantimes.com/rss/topnews/rssfeed.xml</item>
+        <item>https://www.wired.com/feed/rss</item>
+        <item>http://feeds.feedburner.com/ndtvnews-latest</item>
+        <item>http://economictimes.indiatimes.com/rssfeedstopstories.cms</item>
+        <item>http://indiatoday.intoday.in/rss/article.jsp?sid=30</item>
+        <item>https://www.outlookindia.com/rss/main/newswire</item>
+
+    </string-array>
+    <string name="financialexpress">Financial Express</string>
+    <string name="indiatoday">India Today</string>
+    <string name="forbesindia">Forbes India</string>
+    <string name="ht">Hindustan Times</string>
+    <string name="wired">Wired.com</string>
+    <string name="ndtv">NDTV News</string>
+    <string name="economictimes">Economic times</string>
+    <string name="outlook">Outlook</string>
+    <string name="abc">ABC News</string>
+    <string name="washington">Washington Post</string>
+    <string name="independent">Independent.co</string>
+    <string name="abcnews">ABC News</string>
+    <string name="washingtonpost">Washington Post</string>
+    <string name="time">Time Magazine</string>
+    <string name="guardian">The Guardian</string>
+    <string name="aljazeera">Aljazeera.com</string>
+    <string name="toi">Times of India</string>
+    <string name="indiatv">IndiaTv</string>
+    <string name="dailyppioneer">Daily Pioneer</string>
+    <string name="indianexpress">Indian Express</string>
+    <string name="newsnation">News Nation</string>
+    <string name="moneycontrol">MoneyControl.com</string>
+    <string name="openthemagazine">Open the Magazine</string>
+    <string name="zeenews">Zee News</string>
+    <string name="espn">ESPN Cricket</string>
+    <string name="sportsmedia">SportsPro Media</string>
+    <string name="seattletimes">The Seattle Times</string>
+    <string name="marketwatch">Market Watch</string>
+    <string name="indiainfoline">India InfoLine</string>
+    <string name="economist">The Economist</string>
+    <string name="livemint">LiveMint</string>
+    <string name="hindubusiness">The Hindu BusinessLine</string>
+    <string name="businessstandard">Business Standard</string>
+    <string name="ndtvprofit">NDTV Profit</string>
+    <string name="wral">Wral.com</string>
+    <string name="bollywoodtrade">Bollywood Trade</string>
+    <string name="ndtvmovies">NDTV Movies</string>
+    <string name="news18">News18</string>
+    <string name="businessinsider">Business Insider</string>
+    <string name="wsjonline">WSJ Online</string>
+    <string name="ndtvcooks">NDTV Cooks</string>
+    <string name="cnbc">CNBC</string>
+    <string name="bbc">BBC News</string>
+    
+     <string name="permission_accessibility_setting_description">"Turn on and it locks all soft key including HOME, RECENTS, BACK, MENU buttons.
+
+You may be warned about potential privacy risk, that's just a regular informative warning for any accessibility service. We promise NEVER EVER collecting your personal information in this accessibility service."</string>
+</resources>
